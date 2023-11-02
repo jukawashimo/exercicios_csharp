@@ -1,0 +1,7 @@
+D:\fatec\ling de programação\aula 15.08\variaveis\adição\bin\Debug\adição.exe.config
+D:\fatec\ling de programação\aula 15.08\variaveis\adição\bin\Debug\adição.exe
+D:\fatec\ling de programação\aula 15.08\variaveis\adição\bin\Debug\adição.pdb
+D:\fatec\ling de programação\aula 15.08\variaveis\adição\obj\Debug\adição.csproj.AssemblyReference.cache
+D:\fatec\ling de programação\aula 15.08\variaveis\adição\obj\Debug\adição.csproj.CoreCompileInputs.cache
+D:\fatec\ling de programação\aula 15.08\variaveis\adição\obj\Debug\adição.exe
+D:\fatec\ling de programação\aula 15.08\variaveis\adição\obj\Debug\adição.pdb

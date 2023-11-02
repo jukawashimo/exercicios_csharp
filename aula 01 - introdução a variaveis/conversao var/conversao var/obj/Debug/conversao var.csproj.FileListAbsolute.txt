@@ -1,0 +1,6 @@
+D:\fatec\ling de programação\aula 15.08\conversao var\conversao var\bin\Debug\conversao var.exe.config
+D:\fatec\ling de programação\aula 15.08\conversao var\conversao var\bin\Debug\conversao var.exe
+D:\fatec\ling de programação\aula 15.08\conversao var\conversao var\bin\Debug\conversao var.pdb
+D:\fatec\ling de programação\aula 15.08\conversao var\conversao var\obj\Debug\conversao var.csproj.CoreCompileInputs.cache
+D:\fatec\ling de programação\aula 15.08\conversao var\conversao var\obj\Debug\conversao var.exe
+D:\fatec\ling de programação\aula 15.08\conversao var\conversao var\obj\Debug\conversao var.pdb

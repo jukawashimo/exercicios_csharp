@@ -1,0 +1,7 @@
+D:\fatec\ling de programação\aula 15.08\exercicios\exerc1\exerc1\obj\Debug\exerc1.csproj.AssemblyReference.cache
+D:\fatec\ling de programação\aula 15.08\exercicios\exerc1\exerc1\obj\Debug\exerc1.csproj.CoreCompileInputs.cache
+D:\fatec\ling de programação\aula 15.08\exercicios\exerc1\exerc1\bin\Debug\exerc1.exe.config
+D:\fatec\ling de programação\aula 15.08\exercicios\exerc1\exerc1\bin\Debug\exerc1.exe
+D:\fatec\ling de programação\aula 15.08\exercicios\exerc1\exerc1\bin\Debug\exerc1.pdb
+D:\fatec\ling de programação\aula 15.08\exercicios\exerc1\exerc1\obj\Debug\exerc1.exe
+D:\fatec\ling de programação\aula 15.08\exercicios\exerc1\exerc1\obj\Debug\exerc1.pdb

@@ -1,0 +1,6 @@
+D:\fatec\ling de programação\aula 15.08\exercicios\exerc2\exerc2\bin\Debug\exerc2.exe.config
+D:\fatec\ling de programação\aula 15.08\exercicios\exerc2\exerc2\bin\Debug\exerc2.exe
+D:\fatec\ling de programação\aula 15.08\exercicios\exerc2\exerc2\bin\Debug\exerc2.pdb
+D:\fatec\ling de programação\aula 15.08\exercicios\exerc2\exerc2\obj\Debug\exerc2.csproj.CoreCompileInputs.cache
+D:\fatec\ling de programação\aula 15.08\exercicios\exerc2\exerc2\obj\Debug\exerc2.exe
+D:\fatec\ling de programação\aula 15.08\exercicios\exerc2\exerc2\obj\Debug\exerc2.pdb
