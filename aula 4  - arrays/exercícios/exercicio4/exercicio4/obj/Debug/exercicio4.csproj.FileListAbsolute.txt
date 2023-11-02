@@ -1,0 +1,14 @@
+D:\fatec\2 semestre\ling de programação\aula 05.09\exercícios\exercicio4\exercicio4\bin\Debug\exercicio4.exe.config
+D:\fatec\2 semestre\ling de programação\aula 05.09\exercícios\exercicio4\exercicio4\bin\Debug\exercicio4.exe
+D:\fatec\2 semestre\ling de programação\aula 05.09\exercícios\exercicio4\exercicio4\bin\Debug\exercicio4.pdb
+D:\fatec\2 semestre\ling de programação\aula 05.09\exercícios\exercicio4\exercicio4\obj\Debug\exercicio4.csproj.AssemblyReference.cache
+D:\fatec\2 semestre\ling de programação\aula 05.09\exercícios\exercicio4\exercicio4\obj\Debug\exercicio4.csproj.CoreCompileInputs.cache
+D:\fatec\2 semestre\ling de programação\aula 05.09\exercícios\exercicio4\exercicio4\obj\Debug\exercicio4.exe
+D:\fatec\2 semestre\ling de programação\aula 05.09\exercícios\exercicio4\exercicio4\obj\Debug\exercicio4.pdb
+E:\fatec\2 semestre\ling de programação\aula 4 ; 05.09\exercícios\exercicio4\exercicio4\bin\Debug\exercicio4.exe.config
+E:\fatec\2 semestre\ling de programação\aula 4 ; 05.09\exercícios\exercicio4\exercicio4\bin\Debug\exercicio4.exe
+E:\fatec\2 semestre\ling de programação\aula 4 ; 05.09\exercícios\exercicio4\exercicio4\bin\Debug\exercicio4.pdb
+E:\fatec\2 semestre\ling de programação\aula 4 ; 05.09\exercícios\exercicio4\exercicio4\obj\Debug\exercicio4.csproj.AssemblyReference.cache
+E:\fatec\2 semestre\ling de programação\aula 4 ; 05.09\exercícios\exercicio4\exercicio4\obj\Debug\exercicio4.csproj.CoreCompileInputs.cache
+E:\fatec\2 semestre\ling de programação\aula 4 ; 05.09\exercícios\exercicio4\exercicio4\obj\Debug\exercicio4.exe
+E:\fatec\2 semestre\ling de programação\aula 4 ; 05.09\exercícios\exercicio4\exercicio4\obj\Debug\exercicio4.pdb

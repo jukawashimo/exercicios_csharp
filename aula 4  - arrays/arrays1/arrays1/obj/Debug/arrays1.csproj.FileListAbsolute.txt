@@ -1,0 +1,7 @@
+D:\fatec\2 semestre\ling de programação\aula 05.09\arrays1\arrays1\bin\Debug\arrays1.exe.config
+D:\fatec\2 semestre\ling de programação\aula 05.09\arrays1\arrays1\bin\Debug\arrays1.exe
+D:\fatec\2 semestre\ling de programação\aula 05.09\arrays1\arrays1\bin\Debug\arrays1.pdb
+D:\fatec\2 semestre\ling de programação\aula 05.09\arrays1\arrays1\obj\Debug\arrays1.csproj.AssemblyReference.cache
+D:\fatec\2 semestre\ling de programação\aula 05.09\arrays1\arrays1\obj\Debug\arrays1.csproj.CoreCompileInputs.cache
+D:\fatec\2 semestre\ling de programação\aula 05.09\arrays1\arrays1\obj\Debug\arrays1.exe
+D:\fatec\2 semestre\ling de programação\aula 05.09\arrays1\arrays1\obj\Debug\arrays1.pdb

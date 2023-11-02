@@ -1,0 +1,14 @@
+D:\fatec\2 semestre\ling de programação\aula 05.09\exerc3 - vetor10\exerc3 - vetor10\bin\Debug\exerc3 - vetor10.exe.config
+D:\fatec\2 semestre\ling de programação\aula 05.09\exerc3 - vetor10\exerc3 - vetor10\bin\Debug\exerc3 - vetor10.exe
+D:\fatec\2 semestre\ling de programação\aula 05.09\exerc3 - vetor10\exerc3 - vetor10\bin\Debug\exerc3 - vetor10.pdb
+D:\fatec\2 semestre\ling de programação\aula 05.09\exerc3 - vetor10\exerc3 - vetor10\obj\Debug\exerc3 - vetor10.csproj.CoreCompileInputs.cache
+D:\fatec\2 semestre\ling de programação\aula 05.09\exerc3 - vetor10\exerc3 - vetor10\obj\Debug\exerc3 - vetor10.exe
+D:\fatec\2 semestre\ling de programação\aula 05.09\exerc3 - vetor10\exerc3 - vetor10\obj\Debug\exerc3 - vetor10.pdb
+D:\fatec\2 semestre\ling de programação\aula 05.09\exerc3 - vetor10\exerc3 - vetor10\obj\Debug\exerc3 - vetor10.csproj.AssemblyReference.cache
+D:\fatec\2 semestre\ling de programação\aula 4 ; 05.09\exercícios\exerc1\exerc3 - vetor10\bin\Debug\exerc3 - vetor10.exe.config
+D:\fatec\2 semestre\ling de programação\aula 4 ; 05.09\exercícios\exerc1\exerc3 - vetor10\bin\Debug\exerc3 - vetor10.exe
+D:\fatec\2 semestre\ling de programação\aula 4 ; 05.09\exercícios\exerc1\exerc3 - vetor10\bin\Debug\exerc3 - vetor10.pdb
+D:\fatec\2 semestre\ling de programação\aula 4 ; 05.09\exercícios\exerc1\exerc3 - vetor10\obj\Debug\exerc3 - vetor10.csproj.AssemblyReference.cache
+D:\fatec\2 semestre\ling de programação\aula 4 ; 05.09\exercícios\exerc1\exerc3 - vetor10\obj\Debug\exerc3 - vetor10.csproj.CoreCompileInputs.cache
+D:\fatec\2 semestre\ling de programação\aula 4 ; 05.09\exercícios\exerc1\exerc3 - vetor10\obj\Debug\exerc3 - vetor10.exe
+D:\fatec\2 semestre\ling de programação\aula 4 ; 05.09\exercícios\exerc1\exerc3 - vetor10\obj\Debug\exerc3 - vetor10.pdb

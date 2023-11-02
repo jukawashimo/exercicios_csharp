@@ -1,0 +1,7 @@
+D:\fatec\2 semestre\ling de programação\aula 05.09\exercícios\exerc2\exerc2\obj\Debug\exerc2.csproj.AssemblyReference.cache
+D:\fatec\2 semestre\ling de programação\aula 05.09\exercícios\exerc2\exerc2\obj\Debug\exerc2.csproj.CoreCompileInputs.cache
+D:\fatec\2 semestre\ling de programação\aula 05.09\exercícios\exerc2\exerc2\bin\Debug\exerc2.exe.config
+D:\fatec\2 semestre\ling de programação\aula 05.09\exercícios\exerc2\exerc2\bin\Debug\exerc2.exe
+D:\fatec\2 semestre\ling de programação\aula 05.09\exercícios\exerc2\exerc2\bin\Debug\exerc2.pdb
+D:\fatec\2 semestre\ling de programação\aula 05.09\exercícios\exerc2\exerc2\obj\Debug\exerc2.exe
+D:\fatec\2 semestre\ling de programação\aula 05.09\exercícios\exerc2\exerc2\obj\Debug\exerc2.pdb
