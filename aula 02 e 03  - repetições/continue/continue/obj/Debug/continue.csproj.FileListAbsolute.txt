@@ -1,0 +1,6 @@
+D:\fatec\2 semestre\ling de programação\aula 29.08\continue\continue\obj\Debug\continue.csproj.CoreCompileInputs.cache
+D:\fatec\2 semestre\ling de programação\aula 29.08\continue\continue\bin\Debug\@continue.exe.config
+D:\fatec\2 semestre\ling de programação\aula 29.08\continue\continue\bin\Debug\@continue.exe
+D:\fatec\2 semestre\ling de programação\aula 29.08\continue\continue\bin\Debug\@continue.pdb
+D:\fatec\2 semestre\ling de programação\aula 29.08\continue\continue\obj\Debug\@continue.exe
+D:\fatec\2 semestre\ling de programação\aula 29.08\continue\continue\obj\Debug\@continue.pdb

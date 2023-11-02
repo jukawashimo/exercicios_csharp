@@ -1,0 +1,7 @@
+D:\fatec\2 semestre\ling de programação\aula 22.08\exercicios\exerc22\exerc22\obj\Debug\exerc22.csproj.AssemblyReference.cache
+D:\fatec\2 semestre\ling de programação\aula 22.08\exercicios\exerc22\exerc22\obj\Debug\exerc22.csproj.CoreCompileInputs.cache
+D:\fatec\2 semestre\ling de programação\aula 22.08\exercicios\exerc22\exerc22\bin\Debug\exerc22.exe.config
+D:\fatec\2 semestre\ling de programação\aula 22.08\exercicios\exerc22\exerc22\bin\Debug\exerc22.exe
+D:\fatec\2 semestre\ling de programação\aula 22.08\exercicios\exerc22\exerc22\bin\Debug\exerc22.pdb
+D:\fatec\2 semestre\ling de programação\aula 22.08\exercicios\exerc22\exerc22\obj\Debug\exerc22.exe
+D:\fatec\2 semestre\ling de programação\aula 22.08\exercicios\exerc22\exerc22\obj\Debug\exerc22.pdb

@@ -1,0 +1,6 @@
+D:\fatec\2 semestre\ling de programação\aula 29.08\dowhile\dowhile\bin\Debug\dowhile.exe.config
+D:\fatec\2 semestre\ling de programação\aula 29.08\dowhile\dowhile\bin\Debug\dowhile.exe
+D:\fatec\2 semestre\ling de programação\aula 29.08\dowhile\dowhile\bin\Debug\dowhile.pdb
+D:\fatec\2 semestre\ling de programação\aula 29.08\dowhile\dowhile\obj\Debug\dowhile.csproj.CoreCompileInputs.cache
+D:\fatec\2 semestre\ling de programação\aula 29.08\dowhile\dowhile\obj\Debug\dowhile.exe
+D:\fatec\2 semestre\ling de programação\aula 29.08\dowhile\dowhile\obj\Debug\dowhile.pdb

@@ -1,0 +1,7 @@
+D:\fatec\2 semestre\ling de programação\aula 29.08\exerc24\exerc24\bin\Debug\exerc24.exe.config
+D:\fatec\2 semestre\ling de programação\aula 29.08\exerc24\exerc24\bin\Debug\exerc24.exe
+D:\fatec\2 semestre\ling de programação\aula 29.08\exerc24\exerc24\bin\Debug\exerc24.pdb
+D:\fatec\2 semestre\ling de programação\aula 29.08\exerc24\exerc24\obj\Debug\exerc24.csproj.AssemblyReference.cache
+D:\fatec\2 semestre\ling de programação\aula 29.08\exerc24\exerc24\obj\Debug\exerc24.csproj.CoreCompileInputs.cache
+D:\fatec\2 semestre\ling de programação\aula 29.08\exerc24\exerc24\obj\Debug\exerc24.exe
+D:\fatec\2 semestre\ling de programação\aula 29.08\exerc24\exerc24\obj\Debug\exerc24.pdb

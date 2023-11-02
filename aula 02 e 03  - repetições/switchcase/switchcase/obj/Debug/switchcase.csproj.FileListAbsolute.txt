@@ -1,0 +1,7 @@
+D:\fatec\2 semestre\ling de programação\aula 29.08\switchcase\switchcase\bin\Debug\switchcase.exe.config
+D:\fatec\2 semestre\ling de programação\aula 29.08\switchcase\switchcase\bin\Debug\switchcase.exe
+D:\fatec\2 semestre\ling de programação\aula 29.08\switchcase\switchcase\bin\Debug\switchcase.pdb
+D:\fatec\2 semestre\ling de programação\aula 29.08\switchcase\switchcase\obj\Debug\switchcase.csproj.AssemblyReference.cache
+D:\fatec\2 semestre\ling de programação\aula 29.08\switchcase\switchcase\obj\Debug\switchcase.csproj.CoreCompileInputs.cache
+D:\fatec\2 semestre\ling de programação\aula 29.08\switchcase\switchcase\obj\Debug\switchcase.exe
+D:\fatec\2 semestre\ling de programação\aula 29.08\switchcase\switchcase\obj\Debug\switchcase.pdb

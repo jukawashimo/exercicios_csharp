@@ -1,0 +1,7 @@
+D:\fatec\2 semestre\ling de programação\aula 29.08\exercicios\exerc30\exerc30\bin\Debug\exerc30.exe.config
+D:\fatec\2 semestre\ling de programação\aula 29.08\exercicios\exerc30\exerc30\bin\Debug\exerc30.exe
+D:\fatec\2 semestre\ling de programação\aula 29.08\exercicios\exerc30\exerc30\bin\Debug\exerc30.pdb
+D:\fatec\2 semestre\ling de programação\aula 29.08\exercicios\exerc30\exerc30\obj\Debug\exerc30.csproj.AssemblyReference.cache
+D:\fatec\2 semestre\ling de programação\aula 29.08\exercicios\exerc30\exerc30\obj\Debug\exerc30.csproj.CoreCompileInputs.cache
+D:\fatec\2 semestre\ling de programação\aula 29.08\exercicios\exerc30\exerc30\obj\Debug\exerc30.exe
+D:\fatec\2 semestre\ling de programação\aula 29.08\exercicios\exerc30\exerc30\obj\Debug\exerc30.pdb

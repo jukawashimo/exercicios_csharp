@@ -1,0 +1,7 @@
+D:\fatec\2 semestre\ling de programação\aula 22.08\repeticao if\repeticao if\obj\Debug\condicionais.csproj.AssemblyReference.cache
+D:\fatec\2 semestre\ling de programação\aula 22.08\repeticao if\repeticao if\obj\Debug\condicionais.csproj.CoreCompileInputs.cache
+D:\fatec\2 semestre\ling de programação\aula 22.08\repeticao if\repeticao if\bin\Debug\repeticao if.exe.config
+D:\fatec\2 semestre\ling de programação\aula 22.08\repeticao if\repeticao if\bin\Debug\repeticao if.exe
+D:\fatec\2 semestre\ling de programação\aula 22.08\repeticao if\repeticao if\bin\Debug\repeticao if.pdb
+D:\fatec\2 semestre\ling de programação\aula 22.08\repeticao if\repeticao if\obj\Debug\repeticao if.exe
+D:\fatec\2 semestre\ling de programação\aula 22.08\repeticao if\repeticao if\obj\Debug\repeticao if.pdb

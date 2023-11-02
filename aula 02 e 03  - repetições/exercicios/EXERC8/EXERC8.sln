@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EXERC8", "EXERC8\EXERC8.csproj", "{4016E375-BD7A-445F-AA6D-EFBB950E83A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "raiz quadrada", "..\..\raiz quadrada\raiz quadrada\raiz quadrada.csproj", "{DA1F4E9D-03F1-4F63-B8E5-6E8082EF5672}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4016E375-BD7A-445F-AA6D-EFBB950E83A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4016E375-BD7A-445F-AA6D-EFBB950E83A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4016E375-BD7A-445F-AA6D-EFBB950E83A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4016E375-BD7A-445F-AA6D-EFBB950E83A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA1F4E9D-03F1-4F63-B8E5-6E8082EF5672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA1F4E9D-03F1-4F63-B8E5-6E8082EF5672}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA1F4E9D-03F1-4F63-B8E5-6E8082EF5672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA1F4E9D-03F1-4F63-B8E5-6E8082EF5672}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D302CC9D-3B22-45DC-8E29-1C145C956A12}
+	EndGlobalSection
+EndGlobal

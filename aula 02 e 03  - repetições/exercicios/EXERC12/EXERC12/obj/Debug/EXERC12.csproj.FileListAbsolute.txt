@@ -1,0 +1,7 @@
+D:\fatec\2 semestre\ling de programação\aula 22.08\exercicios\EXERC12\EXERC12\bin\Debug\EXERC12.exe.config
+D:\fatec\2 semestre\ling de programação\aula 22.08\exercicios\EXERC12\EXERC12\bin\Debug\EXERC12.exe
+D:\fatec\2 semestre\ling de programação\aula 22.08\exercicios\EXERC12\EXERC12\bin\Debug\EXERC12.pdb
+D:\fatec\2 semestre\ling de programação\aula 22.08\exercicios\EXERC12\EXERC12\obj\Debug\EXERC12.csproj.AssemblyReference.cache
+D:\fatec\2 semestre\ling de programação\aula 22.08\exercicios\EXERC12\EXERC12\obj\Debug\EXERC12.csproj.CoreCompileInputs.cache
+D:\fatec\2 semestre\ling de programação\aula 22.08\exercicios\EXERC12\EXERC12\obj\Debug\EXERC12.exe
+D:\fatec\2 semestre\ling de programação\aula 22.08\exercicios\EXERC12\EXERC12\obj\Debug\EXERC12.pdb

@@ -1,0 +1,12 @@
+D:\fatec\2 semestre\ling de programação\aula 22.08\raiz quadrada\raiz quadrada\bin\Debug\raiz quadrada.exe.config
+D:\fatec\2 semestre\ling de programação\aula 22.08\raiz quadrada\raiz quadrada\bin\Debug\raiz quadrada.exe
+D:\fatec\2 semestre\ling de programação\aula 22.08\raiz quadrada\raiz quadrada\bin\Debug\raiz quadrada.pdb
+D:\fatec\2 semestre\ling de programação\aula 22.08\raiz quadrada\raiz quadrada\obj\Debug\raiz quadrada.csproj.CoreCompileInputs.cache
+D:\fatec\2 semestre\ling de programação\aula 22.08\raiz quadrada\raiz quadrada\obj\Debug\raiz quadrada.exe
+D:\fatec\2 semestre\ling de programação\aula 22.08\raiz quadrada\raiz quadrada\obj\Debug\raiz quadrada.pdb
+E:\fatec\2 semestre\ling de programação\aula 2 ; 22.08\raiz quadrada\raiz quadrada\bin\Debug\raiz quadrada.exe.config
+E:\fatec\2 semestre\ling de programação\aula 2 ; 22.08\raiz quadrada\raiz quadrada\bin\Debug\raiz quadrada.exe
+E:\fatec\2 semestre\ling de programação\aula 2 ; 22.08\raiz quadrada\raiz quadrada\bin\Debug\raiz quadrada.pdb
+E:\fatec\2 semestre\ling de programação\aula 2 ; 22.08\raiz quadrada\raiz quadrada\obj\Debug\raiz quadrada.csproj.CoreCompileInputs.cache
+E:\fatec\2 semestre\ling de programação\aula 2 ; 22.08\raiz quadrada\raiz quadrada\obj\Debug\raiz quadrada.exe
+E:\fatec\2 semestre\ling de programação\aula 2 ; 22.08\raiz quadrada\raiz quadrada\obj\Debug\raiz quadrada.pdb

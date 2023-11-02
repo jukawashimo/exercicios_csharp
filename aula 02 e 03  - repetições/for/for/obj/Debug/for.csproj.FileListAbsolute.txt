@@ -1,0 +1,6 @@
+D:\fatec\2 semestre\ling de programação\aula 29.08\for\for\obj\Debug\for.csproj.CoreCompileInputs.cache
+D:\fatec\2 semestre\ling de programação\aula 29.08\for\for\bin\Debug\@for.exe.config
+D:\fatec\2 semestre\ling de programação\aula 29.08\for\for\bin\Debug\@for.exe
+D:\fatec\2 semestre\ling de programação\aula 29.08\for\for\bin\Debug\@for.pdb
+D:\fatec\2 semestre\ling de programação\aula 29.08\for\for\obj\Debug\@for.exe
+D:\fatec\2 semestre\ling de programação\aula 29.08\for\for\obj\Debug\@for.pdb

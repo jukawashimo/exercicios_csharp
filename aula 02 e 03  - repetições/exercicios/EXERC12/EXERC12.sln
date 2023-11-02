@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EXERC12", "EXERC12\EXERC12.csproj", "{DD9657B2-AD6D-46D8-85A5-9D0EA9C0494B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "media aluno", "..\media aluno\media aluno\media aluno.csproj", "{8E4B52CC-7C7B-4EE5-84FB-21A345C3268C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD9657B2-AD6D-46D8-85A5-9D0EA9C0494B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD9657B2-AD6D-46D8-85A5-9D0EA9C0494B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD9657B2-AD6D-46D8-85A5-9D0EA9C0494B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD9657B2-AD6D-46D8-85A5-9D0EA9C0494B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E4B52CC-7C7B-4EE5-84FB-21A345C3268C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E4B52CC-7C7B-4EE5-84FB-21A345C3268C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E4B52CC-7C7B-4EE5-84FB-21A345C3268C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E4B52CC-7C7B-4EE5-84FB-21A345C3268C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC2812D7-600A-4CAD-AD4C-42A7E63E62EF}
+	EndGlobalSection
+EndGlobal

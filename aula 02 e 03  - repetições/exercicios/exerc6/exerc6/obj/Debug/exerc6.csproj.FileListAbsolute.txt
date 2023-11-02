@@ -1,0 +1,6 @@
+D:\fatec\2 semestre\ling de programação\aula 22.08\exercicios\exerc6\exerc6\bin\Debug\exerc6.exe.config
+D:\fatec\2 semestre\ling de programação\aula 22.08\exercicios\exerc6\exerc6\bin\Debug\exerc6.exe
+D:\fatec\2 semestre\ling de programação\aula 22.08\exercicios\exerc6\exerc6\bin\Debug\exerc6.pdb
+D:\fatec\2 semestre\ling de programação\aula 22.08\exercicios\exerc6\exerc6\obj\Debug\exerc6.csproj.CoreCompileInputs.cache
+D:\fatec\2 semestre\ling de programação\aula 22.08\exercicios\exerc6\exerc6\obj\Debug\exerc6.exe
+D:\fatec\2 semestre\ling de programação\aula 22.08\exercicios\exerc6\exerc6\obj\Debug\exerc6.pdb
